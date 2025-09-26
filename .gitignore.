@@ -1,0 +1,22 @@
+
+# Ignore system and environment folders
+.vscode-server/
+.venv/
+myenv/
+.dotnet/
+.jaclang/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# Ignore history and config files
+.bash_history
+.lesshst
+.gitconfig
+.python_history.vscode-server/
+.venv/
+myenv/
+.dotnet/
+.jaclang/
+Project Relatives
