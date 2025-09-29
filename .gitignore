@@ -3,3 +3,12 @@
 myenv/
 .dotnet/
 .jaclang/
+.venv/
+*.log
+*.pyc
+__pycache__/
+__pycache__/
+*.pyc
+*.log
+.venv/
+.venv/
