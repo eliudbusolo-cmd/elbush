@@ -1,0 +1,8 @@
+from byllm import byllm
+
+@byllm()
+def greet(name: str) -> str:
+    """Return a friendly greeting."""
+    pass
+
+print(greet("Busolo"))
